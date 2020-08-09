@@ -13,12 +13,13 @@
     font-size: 20px;
     color: goldenrod;
 }
+
 .margin-a
 {
     margin: auto 25px;  
 }
 
-.ilustration img
+.illustration img
 {
     width: 100%;
     height: auto;
